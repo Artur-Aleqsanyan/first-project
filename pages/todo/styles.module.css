@@ -1,0 +1,16 @@
+.button {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: teal;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    justify-content: right;
+}
+
+.page {
+    background-color: rgb(231, 231, 231);
+}

@@ -1,0 +1,26 @@
+.frPage {
+    color: azure;
+    font-size: 20px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('http://chitrahandicraft.com/wp-content/uploads/2019/02/login-page-background-images-hd-10.jpg');
+}
+
+.contenier {
+    border-radius: 5px;
+    width: 250px;
+    height: 205px;
+
+}
+
+.login {
+    font-size: 28.5px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    color: azure;
+}

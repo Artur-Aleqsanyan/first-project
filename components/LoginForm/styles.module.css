@@ -1,0 +1,16 @@
+.loginInput {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.button {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: teal;
+    color: white;
+    margin-top: 10px;
+    margin-left: 100px;
+    cursor: pointer;
+    justify-content: right;
+}
